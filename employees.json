@@ -1,0 +1,59 @@
+[
+    {
+        "name": "John Smith",
+        "birthday": "02.10.1990",
+        "height": 175,
+        "weight": 76.5,
+        "car": true,
+        "languages": [
+            "C++",
+            "Python"
+        ]
+    },
+    {
+        "name": "Alexey Alexeev",
+        "birthday": "05.06.1986",
+        "height": 197,
+        "weight": 101.2,
+        "car": false,
+        "languages": [
+            "Pascal",
+            "Delphi"
+        ]
+    },
+    {
+        "name": "Maria Ivanova",
+        "birthday": "28.08.1998",
+        "height": 165,
+        "weight": 56.1,
+        "car": true,
+        "languages": [
+            "C#",
+            "C++",
+            "C"
+        ]
+    },
+    {
+        "name": "Morty Smith",
+        "birthday": "02.08.1989",
+        "weight": 72.0,
+        "height": 170.0,
+        "car": true,
+        "languages": [
+            "C++",
+            "Python"
+        ]
+    },
+    {
+        "name": "Tobey",
+        "birthday": "02.01.1974",
+        "weight": 99.0,
+        "height": 185.0,
+        "car": true,
+        "languages": [
+            "C++",
+            "Python",
+            "Delphi"
+        ]
+    }
+]
